@@ -6,4 +6,8 @@ public class Dog {
 	public void eat() {
 		System.out.println("Chomp Chomp");
 	}
+	
+	public void bark() {
+		System.out.println("Woof Woof");
+	}
 }
